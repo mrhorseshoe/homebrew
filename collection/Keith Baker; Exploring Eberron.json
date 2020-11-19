@@ -19,7 +19,7 @@
 			}
 		],
 		"dateAdded": 1599127411,
-		"dateLastModified": 1600301314
+		"dateLastModified": 1603593987
 	},
 	"book": [
 		{
@@ -1904,7 +1904,7 @@
 								"Dela looked at the hundreds of stone faces lining the shelves. Each one the vessel of an elf soul, countless generations of the Jhaelian line. \"So which one wanted to talk to me?\""
 							]
 						},
-						"{@book Eberron: Rising from the Last War|ERLW} presents statistics for four races unique to the world of Eberron: {@race changelings|ERLW}, {@race kalashtar|ERLW}, {@race shifters|ERLW}, and {@race warforged|ERLW}. This chapter delves deeper into the unique aspects of these races as well as exploring the elf culture of Aerenal. Chapter 4 also presents information on the dwarves of the Mror Holds, the ancient Dar goblinoids, the gnolls of Droaam, and the inhabitants of the Thunder Sea.",
+						"{@book Eberron: Rising from the Last War|ERLW} presents statistics for four races unique to the world of Eberron: {@race changeling|ERLW|changelings}, {@race kalashtar|ERLW}, {@race shifter|ERLW|shifters}, and {@race warforged|ERLW}. This chapter delves deeper into the unique aspects of these races as well as exploring the elf culture of Aerenal. Chapter 4 also presents information on the dwarves of the Mror Holds, the ancient Dar goblinoids, the gnolls of Droaam, and the inhabitants of the Thunder Sea.",
 						{
 							"type": "section",
 							"name": "Changelings: Embracing Change",
@@ -1915,7 +1915,7 @@
 										"\"I will protect your children if they follow my path. Let them wander the world. None will know them. They will have no kingdom but the road, and no enemy will find them. They may be shunned by all, but they will never be destroyed.\""
 									]
 								},
-								"These are said to be the words of the Traveler, a promise that was made to the first {@race changelings|ERLW} bestowed with the gift of shapeshifting. Many changelings still live according to these principles\u2014wandering clans that remain hidden from the world. But there are an ever-increasing number of changelings who chose to live in the open. As a changeling adventurer, you may use your gifts to fool your enemies\u2014but do you show your true face to your companions?",
+								"These are said to be the words of the Traveler, a promise that was made to the first {@race changeling|ERLW|changelings} bestowed with the gift of shapeshifting. Many changelings still live according to these principles\u2014wandering clans that remain hidden from the world. But there are an ever-increasing number of changelings who chose to live in the open. As a changeling adventurer, you may use your gifts to fool your enemies\u2014but do you show your true face to your companions?",
 								{
 									"type": "entries",
 									"name": "Changeling Origins",
@@ -3979,7 +3979,7 @@
 													"type": "entries",
 													"name": "Character Ideas",
 													"entries": [
-														"A {@class barbarian||Totem Warrior|totem warrior} barbarian could describe the benefits of the Bear Totem as the Still Lord's blessing, with their skin taking on a stone-like texture during their rage. A {@class artificer|ERLW|Battle Smith|battle smith|ERLW} artificer could work with stone instead of metal, sculpting their {@creature Steel Defender|ERLW} before bringing it to life."
+														"A {@class barbarian||Totem Warrior|totem warrior} barbarian could describe the benefits of the Bear Totem as the Still Lord's blessing, with their skin taking on a stone-like texture during their rage. A {@class Artificer|TCE|Battle Smith|battle smith|TCE} artificer could work with stone instead of metal, sculpting their {@creature Steel Defender|TCE} before bringing it to life."
 													]
 												},
 												{
@@ -4396,7 +4396,7 @@
 													"type": "entries",
 													"name": "Fernia",
 													"entries": [
-														"Your guide embodies the positive aspects of fire: the flame that provides light and warmth, driving back the darkness. Fernian aasimar typically have crimson skin, and eyes or hair that burn with cold flame. Use the variant {@race aasimar (fernian)|ExploringEberron|Fernian aasimar} provided in chapter 6. Your guide drives you to provide comfort to the frightened and to battle forces of darkness. Fernian aasimar are often sorcerers wielding elemental flame; the {@class sorcerer||Divine Soul|divine soul|XGE} sorcerous origin is a good option to reflect your tie to your angel, or you can use the red dragon {@class sorcerer||Draconic Bloodline|draconic} origin, describing your features as angelic rather than draconic."
+														"Your guide embodies the positive aspects of fire: the flame that provides light and warmth, driving back the darkness. Fernian aasimar typically have crimson skin, and eyes or hair that burn with cold flame. Use the variant {@race aasimar (scourge variant; fernian)|ExploringEberron|Fernian aasimar} provided in chapter 6. Your guide drives you to provide comfort to the frightened and to battle forces of darkness. Fernian aasimar are often sorcerers wielding elemental flame; the {@class sorcerer||Divine Soul|divine soul|XGE} sorcerous origin is a good option to reflect your tie to your angel, or you can use the red dragon {@class sorcerer||Draconic Bloodline|draconic} origin, describing your features as angelic rather than draconic."
 													]
 												},
 												{
@@ -4410,7 +4410,7 @@
 													"type": "entries",
 													"name": "Mabar",
 													"entries": [
-														"You're connected to an angel that's trapped in Mabar and slowly being transformed by the plane's dark powers. Choose any other plane from this section; the angel is originally from that plane, and you have a generally similar appearance to other aasimar touched by that plane\u2014but your colors are dull, as if the light is being leached away from you, and your eyes are pure darkness. Use the variant {@race aasimar (mabaran)|ExploringEberron|Mabaran aasimar} provided in chapter 6. Your guide still inspires you to follow the principles of its plane of origin, but it's fighting against Mabar's overwhelming despair and a hunger to drain the light and life from mortal creatures; when you use your Consuming Touch, you're channeling this energy to your guide. Your guide might hope you can someday release it from Mabar, though no immortal has ever escaped its corruption before. Or it could simply encourage you to follow the general principles of its plane of origin\u2014balanced against its growing hunger and despair. You might be an {@background urchin} or a {@background hermit}, haunted by visions of Mabar; or you could be a {@background sage}, seeking to unlock the secrets of the planes."
+														"You're connected to an angel that's trapped in Mabar and slowly being transformed by the plane's dark powers. Choose any other plane from this section; the angel is originally from that plane, and you have a generally similar appearance to other aasimar touched by that plane\u2014but your colors are dull, as if the light is being leached away from you, and your eyes are pure darkness. Use the variant {@race aasimar (fallen variant; mabaran)|ExploringEberron|Mabaran aasimar} provided in chapter 6. Your guide still inspires you to follow the principles of its plane of origin, but it's fighting against Mabar's overwhelming despair and a hunger to drain the light and life from mortal creatures; when you use your Consuming Touch, you're channeling this energy to your guide. Your guide might hope you can someday release it from Mabar, though no immortal has ever escaped its corruption before. Or it could simply encourage you to follow the general principles of its plane of origin\u2014balanced against its growing hunger and despair. You might be an {@background urchin} or a {@background hermit}, haunted by visions of Mabar; or you could be a {@background sage}, seeking to unlock the secrets of the planes."
 													]
 												},
 												{
@@ -4514,7 +4514,7 @@
 													"type": "entries",
 													"name": "Subrace",
 													"entries": [
-														"A Host aasimar might use a variety of subraces. {@race aasimar (protector)|VGM|Protector} aasimar is a common option, but {@race aasimar (scourge)|VGM|scourge} aasimar is valid as well. An elf aasimar devoted to the Host could use the {@race aasimar (court)|ExploringEberron|Court aasimar} subrace provided in chapter 6, while an aasimar tied to Onatar could even use the {@race aasimar (fernian)|ExploringEberron|Fernian} variant."
+														"A Host aasimar might use a variety of subraces. {@race aasimar (protector)|VGM|Protector} aasimar is a common option, but {@race aasimar (scourge)|VGM|scourge} aasimar is valid as well. An elf aasimar devoted to the Host could use the {@race aasimar (court)|ExploringEberron|Court aasimar} subrace provided in chapter 6, while an aasimar tied to Onatar could even use the {@race aasimar (scourge variant; fernian)|ExploringEberron|Fernian} variant."
 													]
 												}
 											]
@@ -12124,14 +12124,12 @@
 									"items": [
 										"{@race Aasimar (Court)|ExploringEberron}",
 										"{@race Aasimar (Seeker)|ExploringEberron}",
-										"{@race Aasimar (Fernian)|ExploringEberron}",
-										"{@race Aasimar (Mabaran)|ExploringEberron}",
+										"{@race Aasimar (Scourge Variant; Fernian)|ExploringEberron}",
+										"{@race Aasimar (Fallen Variant; Mabaran)|ExploringEberron}",
 										"{@race Elf (Aereni)|ExploringEberron}",
 										"{@race Dwarf (Ruinbound)|ExploringEberron}",
-										"{@race Hobgoblin (Dhakaani Ghaal'dar Guide)|ExploringEberron}",
-										"{@race Hobgoblin (Dhakaani Ghaal'dar Soldier)|ExploringEberron}",
-										"{@race Goblin (Dhakaani Golin'dar Artisan)|ExploringEberron}",
-										"{@race Goblin (Dhakaani Golin'dar Kesh'dar)|ExploringEberron}",
+										"{@race Hobgoblin (Dhakaani Ghaal'dar)|ExploringEberron}",
+										"{@race Goblin (Dhakaani Golin'dar)|ExploringEberron}",
 										"{@race Bugbear (Dhakaani Guul'dar)|ExploringEberron}",
 										"{@race Gnoll|ExploringEberron}"
 									]
@@ -12243,12 +12241,12 @@
 									"rows": [
 										[
 											"Artificer",
-											"{@class Artificer|ERLW|Forge Adept|Forge Adept|ExploringEberron}",
+											"{@class Artificer|TCE|Forge Adept|Forge Adept|ExploringEberron}",
 											"3rd"
 										],
 										[
 											"Artificer",
-											"{@class Artificer|ERLW|Maverick|Maverick|ExploringEberron}",
+											"{@class Artificer|TCE|Maverick|Maverick|ExploringEberron}",
 											"3rd"
 										],
 										[
@@ -16190,7 +16188,8 @@
 				{
 					"race": [
 						{
-							"name": "Elf (Aereni)"
+							"name": "Elf",
+							"subrace": "Aereni"
 						}
 					]
 				}
@@ -16367,8 +16366,8 @@
 					"type": "list",
 					"items": [
 						"Increase your Strength or Constitution score by 1, to a maximum of 20.",
-						"When you use Integrated Protection to don {@filter light or medium armor|items|type=LA;MA}, you can add your Constitution modifier to your Armor Class instead of your Dexterity modifier (to a maximum of +2 when using medium armor).",
-						"When you use Integrated Protection to don {@filter heavy armor|items|type=HA}, you have advantage on Strength saving throws and Strength ({@skill Athletics}) checks to resist being knocked prone or moved against your will.",
+						"When you use Integrated Protection to don {@filter light or medium armor|items|type=light armor;medium armor}, you can add your Constitution modifier to your Armor Class instead of your Dexterity modifier (to a maximum of +2 when using medium armor).",
+						"When you use Integrated Protection to don {@filter heavy armor|items|type=heavy armor}, you have advantage on Strength saving throws and Strength ({@skill Athletics}) checks to resist being knocked prone or moved against your will.",
 						"While it's incorporated into your body, your armor can't be targeted by any effect (such as {@spell heat metal} or the antennae of a {@creature rust monster}) against your will"
 					]
 				}
@@ -16527,6 +16526,7 @@
 		{
 			"name": "Hungry Weapon",
 			"type": "GV",
+			"source": "ExploringEberron",
 			"requires": [
 				{
 					"weapon": true,
@@ -16534,8 +16534,8 @@
 				}
 			],
 			"entries": [
-				"A hungry weapon, a creation of the daelkyr, is formed from muscle and bone. It may moan, growl, or wail, and it twists in your grip if it doesn't like you. If any creature attempts to wield this weapon while not attuned to it, it has disadvantage on attack rolls made using the weapon. Additionally, if you are attuned to this weapon when another creature tries to wield it, the weapon's hilt extrudes sharp thorns and that creature takes {@damage 1d4} points of piercing damage each turn.",
-				"While attuned to and wielding this weapon, you can use a bonus action to bond to it, causing tendrils from the hilt of the weapon to burrow into your flesh. While bonded to it, you gain the following benefits:",
+				"A hungry weapon, a creation of the daelkyr, is formed from muscle and bone. It may moan, growl, or wail, and it twists in your grip if it doesn't like you. If any creature attempts to wield this weapon while not attuned to it, it has disadvantage on attack rolls made using the weapon. Additionally, if you are attuned to this weapon when another creature tries to wield it, the weapon's grip extrudes sharp thorns and that creature takes {@damage 1d4} points of piercing damage each turn.",
+				"While attuned to and wielding this weapon, you can use a bonus action to bond to it, causing tendrils from the grip of the weapon to burrow into your flesh. While bonded to it, you gain the following benefits:",
 				{
 					"type": "list",
 					"items": [
@@ -16551,13 +16551,13 @@
 				"page": 230,
 				"rarity": "uncommon",
 				"entries": [
-					"If any creature attempts to wield this weapon while not attuned to it, it has disadvantage on attack rolls made using the weapon. Additionally, if you are attuned to this weapon when another creature tries to wield it, the weapon's hilt extrudes sharp thorns and that creature takes {@damage 1d4} points of piercing damage each turn.",
+					"If any creature attempts to wield this weapon while not attuned to it, it has disadvantage on attack rolls made using the weapon. Additionally, if you are attuned to this weapon when another creature tries to wield it, the weapon's grip extrudes sharp thorns and that creature takes {@damage 1d4} points of piercing damage each turn.",
 					"While attuned to and wielding this weapon, you can use a bonus action to bond to it. While bonded to it, you gain the following benefits:",
 					{
 						"type": "list",
 						"items": [
 							"The weapon is bound to your hand and can't be removed from your grasp, voluntarily or involuntarily. If it's a two-handed weapon, only one of your hands is bound to the weapon.",
-							"When you hit a creature with this weapon, you can choose to spend one Hit Die to deal additional damage with the attack, and as you do, drain the life from your foes. Roll the Hit Die and add your Constitution modifier; the attack deals extra necrotic damage equal to the result, and you regain an equal number of hit points."
+							"When you hit a creature with this weapon, you can choose to spend one Hit Die and add your Constitution modifier; the attack deals extra necrotic damage equal to the result, and you regain an equal number of hit points."
 						]
 					},
 					"You can end the weapon's bond as an action. You can remain attuned to the weapon regardless of whether you're bonded to it."
@@ -16794,107 +16794,37 @@
 			]
 		}
 	],
-	"race": [
+	"subrace": [
 		{
-			"name": "Aasimar (Court)",
+			"race": {
+				"name": "Aasimar",
+				"source": "VGM"
+			},
+			"name": "Court",
 			"source": "ExploringEberron",
-			"page": 208,
-			"size": "M",
-			"speed": 30,
 			"ability": [
 				{
-					"cha": 2,
 					"dex": 1
 				}
 			],
-			"heightAndWeight": {
-				"baseHeight": 56,
-				"heightMod": "2d10",
-				"baseWeight": 110,
-				"weightMod": "2d4"
-			},
-			"darkvision": 60,
 			"traitTags": [
-				"Damage Resistance",
-				"Spellcasting"
+				"Improved Resting"
 			],
 			"languageProficiencies": [
 				{
-					"common": true,
-					"elvish": true,
-					"celestial": true
-				}
-			],
-			"soundClip": {
-				"type": "internal",
-				"path": "races/aasimar.mp3"
-			},
-			"additionalSpells": [
-				{
-					"innate": {
-						"1": [
-							"light"
-						]
-					},
-					"ability": "cha"
+					"elvish": true
 				}
 			],
 			"entries": [
 				{
 					"name": "Age",
 					"type": "entries",
+					"data": {
+						"overwrite": "Age"
+					},
 					"entries": [
 						"You mature at the same rate as an elf, but you can live up to 1,000 years."
 					]
-				},
-				{
-					"name": "Alignment",
-					"type": "entries",
-					"entries": [
-						"Imbued with celestial power, most aasimar are good. Outcast aasimar are most often neutral or even evil."
-					]
-				},
-				{
-					"type": "entries",
-					"name": "Size",
-					"entries": [
-						"Aasimar have the same range of height and weight as humans."
-					]
-				},
-				{
-					"name": "Darkvision",
-					"entries": [
-						"Blessed with a radiant soul, your vision can easily cut through darkness. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray."
-					],
-					"type": "entries"
-				},
-				{
-					"name": "Celestial Resistance",
-					"entries": [
-						"You have resistance to necrotic damage and radiant damage."
-					],
-					"type": "entries"
-				},
-				{
-					"name": "Healing Hands",
-					"entries": [
-						"As an action, you can touch a creature and cause it to regain a number of hit points equal to your level. Once you use this trait, you can't use it again until you finish a long rest."
-					],
-					"type": "entries"
-				},
-				{
-					"name": "Light Bearer",
-					"entries": [
-						"You know the {@spell light} cantrip. Charisma is your spellcasting ability for it."
-					],
-					"type": "entries"
-				},
-				{
-					"name": "Languages",
-					"entries": [
-						"You can speak, read, and write Common, Celestial, and Elvish."
-					],
-					"type": "entries"
 				},
 				{
 					"name": "Fey Ancestry",
@@ -16906,9 +16836,20 @@
 				{
 					"name": "Trance",
 					"entries": [
-						"Trance. You don't need to sleep. Instead, you meditate deeply, remaining semiconscious, for 4 hours a day. After resting in this way, you gain the same benefit that a human does from 8 hours of sleep."
+						"Trance. You don't need to sleep. Instead, you meditate deeply, remaining semiconscious, for 4 hours a day. After resting in this way, you gain the same benefit that a human does from 8 hours of sleep.",
+						"{@note If you meditate during a long rest, you finish the rest after only 4 hours. You otherwise obey all the rules for a long rest; only the duration is changed.}"
 					],
 					"type": "entries"
+				},
+				{
+					"type": "entries",
+					"name": "Languages",
+					"data": {
+						"overwrite": "Languages"
+					},
+					"entries": [
+						"You can speak, read, and write Common, Celestial, and Elvish."
+					]
 				},
 				{
 					"name": "Guidance From the Past",
@@ -16922,111 +16863,28 @@
 			],
 			"fluff": {
 				"entries": [
-					"These rare humanoids aren't a race of their own. Rather, aasimar are individuals shaped by exposure to divine forces or the energies of the planes, as discussed in chapter 3. The following subraces reflect some of the unusual aasimar one might encounter in Eberron.",
-					"Court aasimar appear among the elves of Eberron, and combine the celestial gifts of the aasimar with the long lifespan and fey blood of the elves. They have the aasimar traits from Volo's Guide to Monsters, plus the traits below."
+					"Court aasimar appear among the elves of Eberron, and combine the celestial gifts of the aasimar with the long lifespan and fey blood of the elves.",
+					"These rare humanoids aren't a race of their own. Rather, aasimar are individuals shaped by exposure to divine forces or the energies of the planes, as discussed in {@book chapter 3|ExploringEberron|3}."
 				]
-			}
+			},
+			"resist": [
+				"necrotic",
+				"radiant"
+			]
 		},
 		{
-			"name": "Aasimar (Seeker)",
+			"race": {
+				"name": "Aasimar",
+				"source": "VGM"
+			},
+			"name": "Seeker",
 			"source": "ExploringEberron",
-			"page": 208,
-			"size": "M",
-			"speed": 30,
 			"ability": [
 				{
-					"cha": 2,
 					"con": 1
 				}
 			],
-			"heightAndWeight": {
-				"baseHeight": 56,
-				"heightMod": "2d10",
-				"baseWeight": 110,
-				"weightMod": "2d4"
-			},
-			"darkvision": 60,
-			"traitTags": [
-				"Damage Resistance",
-				"Spellcasting"
-			],
-			"languageProficiencies": [
-				{
-					"common": true,
-					"celestial": true
-				}
-			],
-			"soundClip": {
-				"type": "internal",
-				"path": "races/aasimar.mp3"
-			},
-			"additionalSpells": [
-				{
-					"innate": {
-						"1": [
-							"light"
-						]
-					},
-					"ability": "cha"
-				}
-			],
 			"entries": [
-				{
-					"name": "Age",
-					"type": "entries",
-					"entries": [
-						"Aasimar mature at the same rate as humans, but they can live up to 160 years."
-					]
-				},
-				{
-					"name": "Alignment",
-					"type": "entries",
-					"entries": [
-						"Imbued with celestial power, most aasimar are good. Outcast aasimar are most often neutral or even evil."
-					]
-				},
-				{
-					"type": "entries",
-					"name": "Size",
-					"entries": [
-						"Aasimar have the same range of height and weight as humans."
-					]
-				},
-				{
-					"name": "Darkvision",
-					"entries": [
-						"Blessed with a radiant soul, your vision can easily cut through darkness. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray."
-					],
-					"type": "entries"
-				},
-				{
-					"name": "Celestial Resistance",
-					"entries": [
-						"You have resistance to necrotic damage and radiant damage."
-					],
-					"type": "entries"
-				},
-				{
-					"name": "Healing Hands",
-					"entries": [
-						"As an action, you can touch a creature and cause it to regain a number of hit points equal to your level. Once you use this trait, you can't use it again until you finish a long rest."
-					],
-					"type": "entries"
-				},
-				{
-					"name": "Light Bearer",
-					"entries": [
-						"You know the {@spell light} cantrip. Charisma is your spellcasting ability for it."
-					],
-					"type": "entries"
-				},
-				{
-					"name": "Languages",
-					"entries": [
-						"You can speak, read, and write Common and Celestial."
-					],
-					"type": "entries"
-				},
 				{
 					"name": "Shroud of Life and Death",
 					"entries": [
@@ -17039,44 +16897,27 @@
 			],
 			"fluff": {
 				"entries": [
-					"These rare humanoids aren't a race of their own. Rather, aasimar are individuals shaped by exposure to divine forces or the energies of the planes, as discussed in chapter 3. The following subraces reflect some of the unusual aasimar one might encounter in Eberron.",
-					"Seeker aasimar draw divine power from their own blood. The aura of a Seeker aasimar can consume the life force of enemies, while sustaining those on the verge of death. They have the aasimar traits from Volo's Guide to Monsters, plus the traits below"
+					"Seeker aasimar draw divine power from their own blood. The aura of a Seeker aasimar can consume the life force of enemies, while sustaining those on the verge of death.",
+					"These rare humanoids aren't a race of their own. Rather, aasimar are individuals shaped by exposure to divine forces or the energies of the planes, as discussed in {@book chapter 3|ExploringEberron|3}."
 				]
-			}
+			},
+			"resist": [
+				"necrotic",
+				"radiant"
+			]
 		},
 		{
-			"name": "Aasimar (Fernian)",
+			"race": {
+				"name": "Aasimar",
+				"source": "VGM"
+			},
+			"name": "Scourge Variant; Fernian",
 			"source": "ExploringEberron",
-			"page": 209,
-			"size": "M",
-			"speed": 30,
 			"ability": [
 				{
-					"cha": 2,
 					"con": 1
 				}
 			],
-			"heightAndWeight": {
-				"baseHeight": 56,
-				"heightMod": "2d10",
-				"baseWeight": 110,
-				"weightMod": "2d4"
-			},
-			"darkvision": 60,
-			"traitTags": [
-				"Damage Resistance",
-				"Spellcasting"
-			],
-			"languageProficiencies": [
-				{
-					"common": true,
-					"celestial": true
-				}
-			],
-			"soundClip": {
-				"type": "internal",
-				"path": "races/aasimar.mp3"
-			},
 			"additionalSpells": [
 				{
 					"innate": {
@@ -17089,30 +16930,11 @@
 			],
 			"entries": [
 				{
-					"name": "Age",
-					"type": "entries",
+					"name": "Shroud of Flame",
 					"entries": [
-						"Aasimar mature at the same rate as humans, but they can live up to 160 years."
-					]
-				},
-				{
-					"name": "Alignment",
-					"type": "entries",
-					"entries": [
-						"Imbued with celestial power, most aasimar are good. Outcast aasimar are most often neutral or even evil."
-					]
-				},
-				{
-					"type": "entries",
-					"name": "Size",
-					"entries": [
-						"Aasimar have the same range of height and weight as humans."
-					]
-				},
-				{
-					"name": "Darkvision",
-					"entries": [
-						"Blessed with a radiant soul, your vision can easily cut through darkness. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray."
+						"Starting at 3rd level, you can use your action to unleash the unending flames within yourself, causing a roaring fire to spring from you, pour out of your eyes and mouth, and threaten to char you.",
+						"Your transformation lasts for 1 minute or until you end it as a bonus action. During it, you shed bright light in a 10-foot radius and dim light for an additional 10 feet, and at the end of each of your turns, you and each creature within 10 feet of you take fire damage equal to half your level (rounded up). In addition, once on each of your turns, you can deal extra fire damage to one target when you deal damage to it with an attack or a spell. The extra fire damage equals your level.",
+						"Once you use this trait, you can't use it again until you finish a long rest."
 					],
 					"type": "entries"
 				},
@@ -17121,86 +16943,49 @@
 					"entries": [
 						"You have resistance to fire damage and necrotic damage."
 					],
-					"type": "entries"
-				},
-				{
-					"name": "Healing Hands",
-					"entries": [
-						"As an action, you can touch a creature and cause it to regain a number of hit points equal to your level. Once you use this trait, you can't use it again until you finish a long rest."
-					],
-					"type": "entries"
-				},
-				{
-					"name": "Languages",
-					"entries": [
-						"You can speak, read, and write Common and Celestial."
-					],
-					"type": "entries"
-				},
-				{
-					"name": "Radiant Consumption",
-					"entries": [
-						"Starting at 3rd level, you can use your action to unleash the divine energy within yourself, causing a searing light to radiate from you, pour out of your eyes and mouth, and threaten to char you.",
-						"Your transformation lasts for 1 minute or until you end it as a bonus action. During it, you shed bright light in a 10-foot radius and dim light for an additional 10 feet, and at the end of each of your turns, you and each creature within 10 feet of you take radiant damage equal to half your level (rounded up). In addition, once on each of your turns, you can deal extra radiant damage to one target when you deal damage to it with an attack or a spell. The extra radiant damage equals your level.",
-						"Once you use this trait, you can't use it again until you finish a long rest."
-					],
-					"type": "entries"
-				},
-				{
-					"name": "Shroud of Flame",
-					"entries": [
-						"When you use your Radiant Consumption trait, you deal fire damage instead of radiant damage."
-					],
-					"type": "entries"
+					"type": "entries",
+					"data": {
+						"overwrite": "Celestial Resistance"
+					}
 				},
 				{
 					"name": "Spirit of Flame",
 					"entries": [
 						"You know the {@spell produce flame} cantrip. Charisma is your spellcasting ability for it."
 					],
-					"type": "entries"
+					"type": "entries",
+					"data": {
+						"overwrite": "Light Bearer"
+					}
 				}
 			],
 			"fluff": {
 				"entries": [
-					"These rare humanoids aren't a race of their own. Rather, aasimar are individuals shaped by exposure to divine forces or the energies of the planes, as discussed in chapter 3. The following subraces reflect some of the unusual aasimar one might encounter in Eberron.",
-					"If your aasimar's powers flow from Fernia, you can use the the scourge aasimar subrace from Volo's Guide to Monsters, but forgo the Celestial Resistance and Light Bearer traits, and instead use the following traits."
+					"If your aasimar's powers flow from Fernia, you can use the the {@race aasimar (scourge)|VGM|scourge aasimar} subrace, but replace the Celestial Resistance, Radiant Consumption, and Light Bearer traits.",
+					"These rare humanoids aren't a race of their own. Rather, aasimar are individuals shaped by exposure to divine forces or the energies of the planes, as discussed in {@book chapter 3|ExploringEberron|3}."
 				]
-			}
+			},
+			"overwrite": {
+				"resist": true,
+				"additionalSpells": true
+			},
+			"resist": [
+				"fire",
+				"necrotic"
+			]
 		},
 		{
-			"name": "Aasimar (Mabaran)",
+			"race": {
+				"name": "Aasimar",
+				"source": "VGM"
+			},
+			"name": "Fallen Variant; Mabaran",
 			"source": "ExploringEberron",
-			"page": 209,
-			"size": "M",
-			"speed": 30,
 			"ability": [
 				{
-					"cha": 2,
 					"str": 1
 				}
 			],
-			"heightAndWeight": {
-				"baseHeight": 56,
-				"heightMod": "2d10",
-				"baseWeight": 110,
-				"weightMod": "2d4"
-			},
-			"darkvision": 60,
-			"traitTags": [
-				"Damage Resistance",
-				"Spellcasting"
-			],
-			"languageProficiencies": [
-				{
-					"common": true,
-					"celestial": true
-				}
-			],
-			"soundClip": {
-				"type": "internal",
-				"path": "races/aasimar.mp3"
-			},
 			"additionalSpells": [
 				{
 					"innate": {
@@ -17213,87 +16998,49 @@
 			],
 			"entries": [
 				{
-					"name": "Age",
-					"type": "entries",
-					"entries": [
-						"Aasimar mature at the same rate as humans, but they can live up to 160 years."
-					]
-				},
-				{
-					"name": "Alignment",
-					"type": "entries",
-					"entries": [
-						"Imbued with celestial power, most aasimar are good. Outcast aasimar are most often neutral or even evil."
-					]
-				},
-				{
-					"type": "entries",
-					"name": "Size",
-					"entries": [
-						"Aasimar have the same range of height and weight as humans."
-					]
-				},
-				{
-					"name": "Darkvision",
-					"entries": [
-						"Blessed with a radiant soul, your vision can easily cut through darkness. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray."
-					],
-					"type": "entries"
-				},
-				{
-					"name": "Celestial Resistance",
-					"entries": [
-						"You have resistance to necrotic damage and radiant damage."
-					],
-					"type": "entries"
-				},
-				{
-					"name": "Languages",
-					"entries": [
-						"You can speak, read, and write Common and Celestial."
-					],
-					"type": "entries"
-				},
-				{
-					"name": "Necrotic Shroud",
-					"entries": [
-						"Starting at 3rd level, you can use your action to unleash the divine energy within yourself, causing your eyes to turn into pools of darkness and two skeletal, ghostly, flightless wings to sprout from your back. The instant you transform, other creatures within 10 feet of you that can see you must succeed on a Charisma saving throw (DC 8 + your proficiency bonus + your Charisma modifier) or become {@condition frightened} of you until the end of your next turn.",
-						"Your transformation lasts for 1 minute or until you end it as a bonus action. During it, once on each of your turns, you can deal extra necrotic damage to one target when you deal damage to it with an attack or a spell. The extra necrotic damage equals your level.",
-						"Once you use this trait, you can't use it again until you finish a long rest."
-					],
-					"type": "entries"
-				},
-				{
 					"name": "Consuming Touch",
 					"entries": [
 						"As an action, you can make a melee spell attack against a creature within your reach. On a hit, the target takes necrotic damage equal to your level and you regain hit points equal to half the damage dealt (round up). Once you use this trait, you can't use it again until you finish a long rest. Charisma is your spellcasting ability for this trait."
 					],
-					"type": "entries"
+					"type": "entries",
+					"data": {
+						"overwrite": "Healing Hands"
+					}
 				},
 				{
 					"name": "Herald of Doom",
 					"entries": [
 						"You know the {@spell toll the dead|xge} cantrip. Charisma is your spellcasting ability for it."
 					],
-					"type": "entries"
+					"type": "entries",
+					"data": {
+						"overwrite": "Light Bearer"
+					}
 				}
 			],
 			"fluff": {
 				"entries": [
-					"These rare humanoids aren't a race of their own. Rather, aasimar are individuals shaped by exposure to divine forces or the energies of the planes, as discussed in chapter 3. The following subraces reflect some of the unusual aasimar one might encounter in Eberron.",
-					"If your aasimar's powers flow from Mabar, you can use the the fallen aasimar subrace from Volo's Guide to Monsters, but forgo the Healing Hands and Light Bearer traits, and instead use the following traits."
+					"If your aasimar's powers flow from Mabar, you can use the the {@race aasimar (fallen)|VGM|fallen aasimar} subrace, but replace the Healing Hands and Light Bearer traits.",
+					"These rare humanoids aren't a race of their own. Rather, aasimar are individuals shaped by exposure to divine forces or the energies of the planes, as discussed in {@book chapter 3|ExploringEberron|3}."
 				]
-			}
+			},
+			"overwrite": {
+				"additionalSpells": true
+			},
+			"resist": [
+				"necrotic",
+				"radiant"
+			]
 		},
 		{
-			"name": "Elf (Aereni)",
+			"race": {
+				"name": "Elf",
+				"source": "PHB"
+			},
+			"name": "Aereni",
 			"source": "ExploringEberron",
-			"page": 209,
-			"size": "M",
-			"speed": 30,
 			"ability": [
 				{
-					"dex": 2,
 					"choose": {
 						"from": [
 							"int",
@@ -17303,84 +17050,10 @@
 					}
 				}
 			],
-			"darkvision": 60,
 			"traitTags": [
-				"Skill Proficiency",
-				"Improved Resting"
+				"Spellcasting"
 			],
-			"languageProficiencies": [
-				{
-					"common": true,
-					"elvish": true
-				}
-			],
-			"skillProficiencies": [
-				{
-					"perception": true
-				}
-			],
-			"soundClip": {
-				"type": "internal",
-				"path": "races/elf.mp3"
-			},
 			"entries": [
-				{
-					"name": "Age",
-					"type": "entries",
-					"entries": [
-						"Although elves reach physical maturity at about the same age as humans, the elven understanding of adulthood goes beyond physical growth to encompass worldly experience. An elf typically claims adulthood and an adult name around the age of 100 and can live to be 750 years old."
-					]
-				},
-				{
-					"name": "Alignment",
-					"type": "entries",
-					"entries": [
-						"Elves love freedom, variety, and self-expression, so they lean strongly toward the gentler aspects of chaos. They value and protect others' freedom as well as their own, and they are more often good than not."
-					]
-				},
-				{
-					"type": "entries",
-					"name": "Size",
-					"entries": [
-						"Elves range from under 5 to over 6 feet tall and have slender builds. Your size is Medium."
-					]
-				},
-				{
-					"name": "Darkvision",
-					"entries": [
-						"Accustomed to twilit forests and the night sky, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray."
-					],
-					"type": "entries"
-				},
-				{
-					"name": "Keen Senses",
-					"entries": [
-						"You have proficiency in the {@skill Perception} skill."
-					],
-					"type": "entries"
-				},
-				{
-					"name": "Fey Ancestry",
-					"entries": [
-						"You have advantage on saving throws against being {@condition charmed}, and magic can't put you to sleep."
-					],
-					"type": "entries"
-				},
-				{
-					"name": "Trance",
-					"entries": [
-						"Elves don't need to sleep. Instead, they meditate deeply, remaining semiconscious, for 4 hours a day. (The Common word for such meditation is \"trance.\") While meditating, you can dream after a fashion; such dreams are actually mental exercises that have become reflexive through years of practice. After resting in this way, you gain the same benefit that a human does from 8 hours of sleep.",
-						"{@note If you meditate during a long rest, you finish the rest after only 4 hours. You otherwise obey all the rules for a long rest; only the duration is changed.}"
-					],
-					"type": "entries"
-				},
-				{
-					"name": "Languages",
-					"entries": [
-						"You can speak, read, and write Common and Elvish. Elvish is fluid, with subtle intonations and intricate grammar. Elven literature is rich and varied, and their songs and poems are famous among other races. Many bards learn their language so they can add Elvish ballads to their repertoires."
-					],
-					"type": "entries"
-				},
 				{
 					"name": "Aereni Expertise",
 					"entries": [
@@ -17398,7 +17071,7 @@
 			],
 			"fluff": {
 				"entries": [
-					"As an Aereni elf, you were born into a world shaped by magic and honed by tradition. Whether you have a keen mind or are driven by deep faith, you've spent your youth perfecting one of the skills prized by your ancestors. The Aereni elves are discussed in more depth in chapter 2. When you choose the subrace of your elf, you can choose Aereni elf, using the following rules to create your character."
+					"As an Aereni elf, you were born into a world shaped by magic and honed by tradition. Whether you have a keen mind or are driven by deep faith, you've spent your youth perfecting one of the skills prized by your ancestors. The Aereni elves are discussed in more depth in {@book chapter 2|ExploringEberron|2}."
 				]
 			},
 			"heightAndWeight": {
@@ -17409,106 +17082,21 @@
 			}
 		},
 		{
-			"name": "Dwarf (Ruinbound)",
+			"race": {
+				"name": "Dwarf",
+				"source": "PHB"
+			},
+			"name": "Ruinbound",
 			"source": "ExploringEberron",
-			"page": 209,
-			"size": "M",
-			"speed": 25,
 			"ability": [
 				{
-					"con": 2,
 					"cha": 1
 				}
 			],
-			"darkvision": 60,
 			"traitTags": [
-				"Damage Resistance",
-				"Weapon Proficiency",
-				"Tool Proficiency",
-				"Skill Proficiency",
 				"Spellcasting"
 			],
-			"languageProficiencies": [
-				{
-					"common": true,
-					"dwarvish": true
-				}
-			],
-			"soundClip": {
-				"type": "internal",
-				"path": "races/dwarf.mp3"
-			},
 			"entries": [
-				{
-					"name": "Age",
-					"type": "entries",
-					"entries": [
-						"Dwarves mature at the same rate as humans, but they're considered young until they reach the age of 50. On average, they live about 350 years."
-					]
-				},
-				{
-					"name": "Alignment",
-					"type": "entries",
-					"entries": [
-						"Most dwarves are lawful, believing firmly in the benefits of a well-ordered society. They tend toward good as well, with a strong sense of fair play and a belief that everyone deserves to share in the benefits of a just order."
-					]
-				},
-				{
-					"name": "Size",
-					"type": "entries",
-					"entries": [
-						"Dwarves stand between 4 and 5 feet tall and average about 150 pounds. Your size is Medium."
-					]
-				},
-				{
-					"name": "Speed",
-					"type": "entries",
-					"entries": [
-						"Your speed is not reduced by wearing heavy armor."
-					]
-				},
-				{
-					"name": "Darkvision",
-					"type": "entries",
-					"entries": [
-						"Accustomed to life underground, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray."
-					]
-				},
-				{
-					"name": "Dwarven Resilience",
-					"type": "entries",
-					"entries": [
-						"You have advantage on saving throws against poison, and you have resistance against poison damage."
-					]
-				},
-				{
-					"name": "Dwarven Combat Training",
-					"type": "entries",
-					"entries": [
-						"You have proficiency with the {@item battleaxe|phb}, {@item handaxe|phb}, {@item light hammer|phb}, and {@item warhammer|phb}."
-					]
-				},
-				{
-					"name": "Tool Proficiency",
-					"type": "entries",
-					"entries": [
-						"You gain proficiency with the artisan's tools of your choice: {@item Smith's tools|phb}, {@item brewer's supplies|phb}, or {@item mason's tools|phb}."
-					]
-				},
-				{
-					"name": "Stonecunning",
-					"type": "entries",
-					"entries": [
-						"Whenever you make an Intelligence ({@skill History}) check related to the origin of stonework, you are considered proficient in the {@skill History} skill and add double your proficiency bonus to the check, instead of your normal proficiency bonus."
-					]
-				},
-				{
-					"name": "Languages",
-					"type": "entries",
-					"entries": [
-						"You can speak, read, and write Common and Dwarvish. Dwarvish is full of hard consonants and guttural sounds, and those characteristics spill over into whatever other language a dwarf might speak."
-					]
-				},
 				{
 					"name": "Personal Symbiont",
 					"type": "entries",
@@ -17615,7 +17203,7 @@
 					},
 					"To date, no one knows the origin or purpose\u2014if any\u2014of the ruinbound dwarves. Doldarun asserts that they are children corrupted by Dyrrn in the womb, tools of the daelkyr waiting to be activated. The sages of Clan Narathun say that they may indeed be the result of strange forces emanating from the Realm Below, but there's no evidence that the children have any direct tie to the daelkyr or that they're drawn to malefic actions. Regardless of the truth, ruinbound dwarves are a recent development. The first ruinbound children were born thirty years ago, and traditionally, dwarves aren't even considered to be adults until their fiftieth year; however, ruinbound children mature surprisingly (some say unnaturally) quickly.",
 					"Ruinbound dwarves are quite rare and can be born to dwarves of any bloodline. The Mror still don't know what to make of them, though their attitude toward symbionts generally mirrors that toward ruinbound dwarves. The Doldarun dwarves are hostile to any ruinbounds that come to their land, and claim that ruinbound children are never born in their clan; while that's a possibility, there are also rumors of Soldorak agents among the Doldarun that spirit away these infants to a clan that celebrates them, lest they meet a darker fate. The Droranath and Toldorath clans are curious, but they won't necessarily ostracize ruinbound dwarves. Soldorak and Narathun families might embrace a ruinbound child\u2014but they also might reject them out of fear that other clans could use them to paint the entire family as corrupted. In creating a ruinbound character, you need to decide how you were received, reflected by your background. Are you an urchin or an outlander, having made your own way after being rejected by your family? Are you a charlatan or a criminal, forced down a dangerous path by the fears of those around you? Or might you be a noble, treasured by your family despite\u2014or because of\u2014your condition?",
-					"You can play a ruinbound dwarf by building a character with the dwarf subrace presented below. As a ruinbound dwarf, you could also choose to attribute your class abilities to your symbiont or your unnatural nature. As a sorcerer, your spellcasting could be channeled through your symbiont or other mutations. Any class with Unarmored Defense could present it as being tied to a physical mutation; if you're a barbarian, your rage could manifest as an active transformation. If you're a ruinbound warlock, you could say that your symbiont is your patron, an active sentience within you\u2014and if you help it grow, it promises you greater powers.",
+					"As a ruinbound dwarf, you could also choose to attribute your class abilities to your symbiont or your unnatural nature. As a sorcerer, your spellcasting could be channeled through your symbiont or other mutations. Any class with Unarmored Defense could present it as being tied to a physical mutation; if you're a barbarian, your rage could manifest as an active transformation. If you're a ruinbound warlock, you could say that your symbiont is your patron, an active sentience within you\u2014and if you help it grow, it promises you greater powers.",
 					"While others might fear them, ruinbound dwarves aren't innately evil. In creating a ruinbound character, talk with your DM about where you'd like your story to go. Do you want to be faced with the threat of corruption? Is it possible that Dyrrn does have plans for you? Or do you want to be a true hero despite your seemingly sinister features?"
 				]
 			},
@@ -17624,29 +17212,27 @@
 				"heightMod": "2d4",
 				"baseWeight": 115,
 				"weightMod": "2d6"
-			}
-		},
+			},
+			"resist": [
+				"poison"
+			]
+		}
+	],
+	"race": [
 		{
-			"name": "Hobgoblin (Dhakaani Ghaal'dar Guide)",
+			"name": "Hobgoblin (Dhakaani Ghaal'dar)",
 			"source": "ExploringEberron",
 			"page": "210",
-			"skillProficiencies": [
-				{
-					"choose": {
-						"from": [
-							"history",
-							"medicine",
-							"performance",
-							"persuasion"
-						],
-						"count": 2
-					}
-				}
-			],
 			"traitTags": [
 				"Darkvision",
 				"Skill Proficiency"
 			],
+			"heightAndWeight": {
+				"baseHeight": 56,
+				"heightMod": "2d10",
+				"baseWeight": 110,
+				"weightMod": "2d4"
+			},
 			"languageProficiencies": [
 				{
 					"common": true,
@@ -17655,14 +17241,7 @@
 			],
 			"ability": [
 				{
-					"con": 2,
-					"choose": {
-						"from": [
-							"int",
-							"cha"
-						],
-						"amount": 1
-					}
+					"con": 2
 				}
 			],
 			"size": "M",
@@ -17710,161 +17289,134 @@
 					"entries": [
 						"You can speak, read, and write Common and Goblin."
 					]
+				}
+			],
+			"subraces": [
+				{
+					"name": "Guide",
+					"source": "ExploringEberron",
+					"page": "210",
+					"skillProficiencies": [
+						{
+							"choose": {
+								"from": [
+									"history",
+									"medicine",
+									"performance",
+									"persuasion"
+								],
+								"count": 2
+							}
+						}
+					],
+					"ability": [
+						{
+							"choose": {
+								"from": [
+									"int",
+									"cha"
+								],
+								"amount": 1
+							}
+						}
+					],
+					"entries": [
+						{
+							"type": "entries",
+							"name": "Lead by Example",
+							"entries": [
+								"If you fail an ability check or saving throw, you can gain a bonus to the roll equal to the number of allies you can see within 30 feet of you (maximum bonus of +5). Once you use this trait, you can't use it again until you finish a short or long rest."
+							]
+						},
+						{
+							"type": "entries",
+							"name": "The Guiding Arts",
+							"entries": [
+								"You have proficiency in two of the following skills of your choice: {@skill History}, {@skill Medicine}, {@skill Performance}, or {@skill  Persuasion}."
+							]
+						}
+					],
+					"fluff": {
+						"entries": [
+							"As a guide, possibly a duur'kala bard, you've been trained to lead your people.",
+							"Dhakaani hobgoblins are known as {@i ghaal'dar}, \"mighty folk\"\u2014not to be confused with the Ghaal'dar tribes that dominate Darguun. The ghaal'dar are soldiers, scholars, and leaders, valued for their versatility and their vision."
+						]
+					}
 				},
 				{
-					"type": "entries",
-					"name": "Lead by Example",
+					"name": "Soldier",
+					"source": "ExploringEberron",
+					"page": "210",
+					"skillProficiencies": [
+						{
+							"choose": {
+								"from": [
+									"athletics",
+									"intimidation",
+									"perception",
+									"survival"
+								],
+								"count": 2
+							}
+						}
+					],
+					"ability": [
+						{
+							"choose": {
+								"from": [
+									"dex",
+									"str"
+								],
+								"amount": 1
+							}
+						}
+					],
 					"entries": [
-						"If you fail an ability check or saving throw, you can gain a bonus to the roll equal to the number of allies you can see within 30 feet of you (maximum bonus of +5). Once you use this trait, you can't use it again until you finish a short or long rest."
-					]
-				},
-				{
-					"type": "entries",
-					"name": "The Guiding Arts",
-					"entries": [
-						"You have proficiency in two of the following skills of your choice: {@skill History}, {@skill Medicine}, {@skill Performance}, or {@skill  Persuasion}."
-					]
+						{
+							"type": "entries",
+							"name": "Strength in Unity",
+							"entries": [
+								"If you miss with an attack roll or fail a saving throw, you can gain a bonus to the roll equal to the number of allies you can see within 30 feet of you (Maximum bonus of +5). Once you use this trait, you can't use it again until you finish a short or long rest."
+							]
+						},
+						{
+							"type": "entries",
+							"name": "The Arts of War",
+							"entries": [
+								"You have proficiency in two of the following skills of your choice: {@skill Athletics}, {@skill Intimidation}, {@skill Perception}, or {@skill  Survival}."
+							]
+						}
+					],
+					"fluff": {
+						"entries": [
+							"As a soldier, you've drilled in the art of war since childhood.",
+							"Dhakaani hobgoblins are known as {@i ghaal'dar}, \"mighty folk\"\u2014not to be confused with the Ghaal'dar tribes that dominate Darguun. The ghaal'dar are soldiers, scholars, and leaders, valued for their versatility and their vision."
+						]
+					}
 				}
 			],
 			"fluff": {
 				"entries": [
-					"Dhakaani hobgoblins are known as ghaal'dar, \"mighty folk\"\u2014not to be confused with the Ghaal'dar tribes that dominate Darguun. The ghaal'dar are soldiers, scholars, and leaders, valued for their versatility and their vision.",
-					"As a guide, possibly a duur'kala bard, you've been trained to lead your people."
+					"Dhakaani hobgoblins are known as {@i ghaal'dar}, \"mighty folk\"\u2014not to be confused with the Ghaal'dar tribes that dominate Darguun. The ghaal'dar are soldiers, scholars, and leaders, valued for their versatility and their vision."
 				]
-			},
-			"heightAndWeight": {
-				"baseHeight": 56,
-				"heightMod": "2d10",
-				"baseWeight": 110,
-				"weightMod": "2d4"
 			}
 		},
 		{
-			"name": "Hobgoblin (Dhakaani Ghaal'dar Soldier)",
-			"source": "ExploringEberron",
-			"page": "210",
-			"skillProficiencies": [
-				{
-					"choose": {
-						"from": [
-							"athletics",
-							"intimidation",
-							"perception",
-							"survival"
-						],
-						"count": 2
-					}
-				}
-			],
-			"traitTags": [
-				"Darkvision",
-				"Skill Proficiency"
-			],
-			"languageProficiencies": [
-				{
-					"common": true,
-					"goblin": true
-				}
-			],
-			"ability": [
-				{
-					"con": 2,
-					"choose": {
-						"from": [
-							"dex",
-							"str"
-						],
-						"amount": 1
-					}
-				}
-			],
-			"size": "M",
-			"speed": 30,
-			"darkvision": 60,
-			"entries": [
-				{
-					"type": "entries",
-					"name": "Age",
-					"entries": [
-						"Ghaal'dar mature at the same rate as humans and have lifespans similar to theirs."
-					]
-				},
-				{
-					"type": "entries",
-					"name": "Size",
-					"entries": [
-						"Ghaal'dar are between 5 and 6 feet tall and weigh between 150 and 200 pounds. Your size is Medium."
-					]
-				},
-				{
-					"type": "entries",
-					"name": "Speed",
-					"entries": [
-						"Your base walking speed is 30 feet."
-					]
-				},
-				{
-					"type": "entries",
-					"name": "Darkvision",
-					"entries": [
-						"You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray"
-					]
-				},
-				{
-					"type": "entries",
-					"name": "Discipline",
-					"entries": [
-						"You have advantage on saving throws against being charmed."
-					]
-				},
-				{
-					"type": "entries",
-					"name": "Languages",
-					"entries": [
-						"You can speak, read, and write Common and Goblin."
-					]
-				},
-				{
-					"type": "entries",
-					"name": "Strength in Unity",
-					"entries": [
-						"If you miss with an attack roll or fail a saving throw, you can gain a bonus to the roll equal to the number of allies you can see within 30 feet of you (Maximum bonus of +5). Once you use this trait, you can't use it again until you finish a short or long rest."
-					]
-				},
-				{
-					"type": "entries",
-					"name": "The Arts of War",
-					"entries": [
-						"You have proficiency in two of the following skills of your choice: {@skill Athletics}, {@skill Intimidation}, {@skill Perception}, or {@skill  Survival}."
-					]
-				}
-			],
-			"fluff": {
-				"entries": [
-					"Dhakaani hobgoblins are known as ghaal'dar, \"mighty folk\"\u2014not to be confused with the Ghaal'dar tribes that dominate Darguun. The ghaal'dar are soldiers, scholars, and leaders, valued for their versatility and their vision.",
-					"As a soldier, you've drilled in the art of war since childhood."
-				]
-			},
-			"heightAndWeight": {
-				"baseHeight": 56,
-				"heightMod": "2d10",
-				"baseWeight": 110,
-				"weightMod": "2d4"
-			}
-		},
-		{
-			"name": "Goblin (Dhakaani Golin'dar Artisan)",
+			"name": "Goblin (Dhakaani Golin'dar)",
 			"source": "ExploringEberron",
 			"page": 211,
 			"ability": [
 				{
-					"dex": 2,
-					"int": 2
+					"dex": 2
 				}
 			],
+			"heightAndWeight": {
+				"baseHeight": 41,
+				"heightMod": "2d4",
+				"baseWeight": 35
+			},
 			"traitTags": [
-				"Darkvision",
-				"Tool Proficiency"
+				"Darkvision"
 			],
 			"languageProficiencies": [
 				{
@@ -17909,110 +17461,75 @@
 					"entries": [
 						"You can speak, read, and write Common and Goblin."
 					]
+				}
+			],
+			"subraces": [
+				{
+					"name": "Artisan",
+					"source": "ExploringEberron",
+					"page": 211,
+					"ability": [
+						{
+							"int": 2
+						}
+					],
+					"traitTags": [
+						"Tool Proficiency"
+					],
+					"entries": [
+						{
+							"type": "entries",
+							"name": "Basic Training",
+							"entries": [
+								"You have proficiency with one {@filter artisan's tools|items|type=artisan's tools} of your choice."
+							]
+						}
+					],
+					"fluff": {
+						"entries": [
+							"As an artisan, you've learned a trade. But beyond that, your training has helped to sharpen your wits and hone your instincts.",
+							"Dhakaani goblins are known as {@i golin'dar}, \"quick folk.\" They reproduce and mature faster than other dar, and form the bulk of the labor force in Dhakaani society. This includes menial labor, agriculture, food preparation, and skilled craftwork. Though ghaal'dar are the primary smiths of weapon and armor, most other manufacturing is done by the golin'dar. While this work may be less dramatic than the martial paths of the ghaal'dar and guul'dar, it's vital to survival and the golin'dar are respected for their contributions. Other golin'dar take a different path, that of the Khesh'dar, the Silent Folk who live in the shadows of the empire."
+						]
+					}
 				},
 				{
-					"type": "entries",
-					"name": "Basic Training",
+					"name": "Kesh'dar",
+					"source": "ExploringEberron",
+					"page": 211,
+					"ability": [
+						{
+							"wis": 1
+						}
+					],
+					"traitTags": [
+						"Skill Proficiency"
+					],
+					"skillProficiencies": [
+						{
+							"stealth": true
+						}
+					],
 					"entries": [
-						"You have proficiency with one {@filter artisan's tools|items|type=artisan's tools} of your choice."
-					]
-				}
-			],
-			"fluff": {
-				"entries": [
-					"Dhakaani goblins are known as golin'dar, \"quick folk.\" They reproduce and mature faster than other dar, and form the bulk of the labor force in Dhakaani society. This includes menial labor, agriculture, food preparation, and skilled craftwork. Though ghaal'dar are the primary smiths of weapon and armor, most other manufacturing is done by the golin'dar. While this work may be less dramatic than the martial paths of the ghaal'dar and guul'dar, it's vital to survival and the golin'dar are respected for their contributions. Other golin'dar take a different path, that of the Khesh'dar, the Silent Folk who live in the shadows of the empire.",
-					"As an artisan, you've learned a trade. But beyond that, your training has helped to sharpen your wits and hone your instincts."
-				]
-			},
-			"heightAndWeight": {
-				"baseHeight": 41,
-				"heightMod": "2d4",
-				"baseWeight": 35
-			}
-		},
-		{
-			"name": "Goblin (Dhakaani Golin'dar Kesh'dar)",
-			"source": "ExploringEberron",
-			"page": 211,
-			"ability": [
-				{
-					"dex": 2,
-					"wis": 1
-				}
-			],
-			"traitTags": [
-				"Darkvision",
-				"Skill Proficiency"
-			],
-			"languageProficiencies": [
-				{
-					"common": true,
-					"goblin": true
-				}
-			],
-			"skillProficiencies": [
-				{
-					"choose": {
-						"stealth": true
+						{
+							"type": "entries",
+							"name": "The Silent Arts",
+							"entries": [
+								"You are proficient in the {@skill Stealth} skill. Your proficiency bonus is doubled for any ability check you make using that skill."
+							]
+						}
+					],
+					"fluff": {
+						"entries": [
+							"As one of the Silent Folk, you've received extensive training in the arts of stealth. This work has also sharpened your senses and focused your will.",
+							"Dhakaani goblins are known as {@i golin'dar}, \"quick folk.\" They reproduce and mature faster than other dar, and form the bulk of the labor force in Dhakaani society. This includes menial labor, agriculture, food preparation, and skilled craftwork. Though ghaal'dar are the primary smiths of weapon and armor, most other manufacturing is done by the golin'dar. While this work may be less dramatic than the martial paths of the ghaal'dar and guul'dar, it's vital to survival and the golin'dar are respected for their contributions. Other golin'dar take a different path, that of the Khesh'dar, the Silent Folk who live in the shadows of the empire."
+						]
 					}
 				}
 			],
-			"size": "S",
-			"speed": 30,
-			"entries": [
-				{
-					"type": "entries",
-					"name": "Age",
-					"entries": [
-						"Golin'dar reach adulthood at age 8 and live up to 60 years."
-					]
-				},
-				{
-					"type": "entries",
-					"name": "Size",
-					"entries": [
-						"Golin'dar are between 3 and 4 feet tall and weigh between 40 and 80 pounds. Your size is Small."
-					]
-				},
-				{
-					"type": "entries",
-					"name": "Darkvision",
-					"entries": [
-						"You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray."
-					]
-				},
-				{
-					"type": "entries",
-					"name": "Naturally Stealthy",
-					"entries": [
-						"You can attempt to hide even when you are obscured only by a creature that is at least one size larger than you."
-					]
-				},
-				{
-					"type": "entries",
-					"name": "Languages",
-					"entries": [
-						"You can speak, read, and write Common and Goblin."
-					]
-				},
-				{
-					"type": "entries",
-					"name": "The Silent Arts",
-					"entries": [
-						"You are proficient in the {@skill Stealth} skill. Your proficiency bonus is doubled for any ability check you make using that skill."
-					]
-				}
-			],
 			"fluff": {
 				"entries": [
-					"Dhakaani goblins are known as golin'dar, \"quick folk.\" They reproduce and mature faster than other dar, and form the bulk of the labor force in Dhakaani society. This includes menial labor, agriculture, food preparation, and skilled craftwork. Though ghaal'dar are the primary smiths of weapon and armor, most other manufacturing is done by the golin'dar. While this work may be less dramatic than the martial paths of the ghaal'dar and guul'dar, it's vital to survival and the golin'dar are respected for their contributions. Other golin'dar take a different path, that of the Khesh'dar, the Silent Folk who live in the shadows of the empire.",
-					"As one of the Silent Folk, you've received extensive training in the arts of stealth. This work has also sharpened your senses and focused your will."
+					"Dhakaani goblins are known as {@i golin'dar}, \"quick folk.\" They reproduce and mature faster than other dar, and form the bulk of the labor force in Dhakaani society. This includes menial labor, agriculture, food preparation, and skilled craftwork. Though ghaal'dar are the primary smiths of weapon and armor, most other manufacturing is done by the golin'dar. While this work may be less dramatic than the martial paths of the ghaal'dar and guul'dar, it's vital to survival and the golin'dar are respected for their contributions. Other golin'dar take a different path, that of the Khesh'dar, the Silent Folk who live in the shadows of the empire."
 				]
-			},
-			"heightAndWeight": {
-				"baseHeight": 41,
-				"heightMod": "2d4",
-				"baseWeight": 35
 			}
 		},
 		{
@@ -18102,7 +17619,7 @@
 			],
 			"fluff": {
 				"entries": [
-					"Dhakaani bugbears are known as guul'dar, \"strong folk,\" and are celebrated for their strength and courage. They help perform heavy labor where strength is required, but most yearn to prove their mettle on the battlefield, risking their lives to earn the glory known as atcha."
+					"Dhakaani bugbears are known as {@i guul'dar}, \"strong folk,\" and are celebrated for their strength and courage. They help perform heavy labor where strength is required, but most yearn to prove their mettle on the battlefield, risking their lives to earn the glory known as {@i atcha}."
 				]
 			},
 			"heightAndWeight": {
@@ -18202,9 +17719,15 @@
 			],
 			"fluff": {
 				"entries": [
-					"Centuries ago, the gnolls of the Znir Pact turned their backs on the worship of fiends, resolving to live as free people. Chapter 4 discusses their role in Droaam and across the land of Khorvaire.",
-					"The most important identifier for a Znir gnoll is its whoop. While deceptively short, a whoop includes a range of ultrasonic inflections that indicate clan, a personal identifier, and a suggestion of family affiliation (the Znir trace lineage through the mother). Because it's impossible for most non- gnolls to properly replicate a whoop, gnolls also use contract names\u2014names intended to be used with clients and other outsiders. There is a basic structure of contract names used by all gnolls; the inflection of the name indicates gender, though few people recognize this if they don't speak Gnoll. The Znir typically attach clan name to a formal introduction: \"Ghyrryn Barrakas, Znir.\"",
-					"Gnoll Contract Names: Dagnyr, Dhyrn, Ghyrryn, Gnasc, Gnoryc, Gnyrn, Gnyrl, Hyrn, Lhoryn, Lhyr, Lhyrl, Mognyr, Myrl, Sorgnyn, Thyrn, Toryc, Yrgnyn, Yrych"
+					"Centuries ago, the gnolls of the Znir Pact turned their backs on the worship of fiends, resolving to live as free people. {@book Chapter 4|ExploringEberron|4} discusses their role in Droaam and across the land of Khorvaire.",
+					{
+						"type": "inset",
+						"name": "Gnoll Names",
+						"entries": [
+							"The most important identifier for a Znir gnoll is its whoop. While deceptively short, a whoop includes a range of ultrasonic inflections that indicate clan, a personal identifier, and a suggestion of family affiliation (the Znir trace lineage through the mother). Because it's impossible for most non- gnolls to properly replicate a whoop, gnolls also use contract names\u2014names intended to be used with clients and other outsiders. There is a basic structure of contract names used by all gnolls; the inflection of the name indicates gender, though few people recognize this if they don't speak Gnoll. The Znir typically attach clan name to a formal introduction: \"Ghyrryn Barrakas, Znir.\"",
+							"{@b Gnoll Contract Names:} Dagnyr, Dhyrn, Ghyrryn, Gnasc, Gnoryc, Gnyrn, Gnyrl, Hyrn, Lhoryn, Lhyr, Lhyrl, Mognyr, Myrl, Sorgnyn, Thyrn, Toryc, Yrgnyn, Yrych"
+						]
+					}
 				]
 			},
 			"heightAndWeight": {
@@ -18704,7 +18227,7 @@
 				"fromClassList": [
 					{
 						"name": "Artificer",
-						"source": "ERLW"
+						"source": "TCE"
 					},
 					{
 						"name": "Sorcerer",
@@ -18850,7 +18373,7 @@
 				"fromClassList": [
 					{
 						"name": "Artificer",
-						"source": "ERLW"
+						"source": "TCE"
 					},
 					{
 						"name": "Bard",
@@ -18911,7 +18434,7 @@
 				"fromClassList": [
 					{
 						"name": "Artificer",
-						"source": "ERLW"
+						"source": "TCE"
 					},
 					{
 						"name": "Bard",
@@ -18936,7 +18459,7 @@
 			"source": "ExploringEberron",
 			"page": 214,
 			"className": "artificer",
-			"classSource": "erlw",
+			"classSource": "TCE",
 			"shortName": "Forge Adept",
 			"additionalSpells": [
 				{
@@ -18965,10 +18488,10 @@
 				}
 			],
 			"subclassFeatures": [
-				"Forge Adept|Artificer|erlw|Forge Adept|ExploringEberron|3",
-				"Extra Attack|Artificer|erlw|Forge Adept|ExploringEberron|5",
-				"Runes of War|Artificer|erlw|Forge Adept|ExploringEberron|9",
-				"Perfect Weapon|Artificer|erlw|Forge Adept|ExploringEberron|15"
+				"Forge Adept|Artificer|TCE|Forge Adept|ExploringEberron|3",
+				"Extra Attack|Artificer|TCE|Forge Adept|ExploringEberron|5",
+				"Runes of War|Artificer|TCE|Forge Adept|ExploringEberron|9",
+				"Perfect Weapon|Artificer|TCE|Forge Adept|ExploringEberron|15"
 			]
 		},
 		{
@@ -18976,14 +18499,14 @@
 			"source": "ExploringEberron",
 			"page": 215,
 			"className": "artificer",
-			"classSource": "erlw",
+			"classSource": "TCE",
 			"shortName": "Maverick",
 			"subclassFeatures": [
-				"Maverick|Artificer|erlw|Maverick|ExploringEberron|3",
-				"Cantrip Savant|Artificer|erlw|Maverick|ExploringEberron|5",
-				"Superior Breakthroughs|Artificer|erlw|Maverick|ExploringEberron|9",
-				"Work in Progress|Artificer|erlw|Maverick|ExploringEberron|9",
-				"Final Breakthrough|Artificer|erlw|Maverick|ExploringEberron|15"
+				"Maverick|Artificer|TCE|Maverick|ExploringEberron|3",
+				"Cantrip Savant|Artificer|TCE|Maverick|ExploringEberron|5",
+				"Superior Breakthroughs|Artificer|TCE|Maverick|ExploringEberron|9",
+				"Work in Progress|Artificer|TCE|Maverick|ExploringEberron|9",
+				"Final Breakthrough|Artificer|TCE|Maverick|ExploringEberron|15"
 			]
 		},
 		{
@@ -19009,7 +18532,7 @@
 			]
 		},
 		{
-			"name": "The Mind Domain",
+			"name": "Mind Domain",
 			"source": "ExploringEberron",
 			"page": 217,
 			"className": "cleric",
@@ -19042,7 +18565,7 @@
 				}
 			],
 			"subclassFeatures": [
-				"The Mind Domain|Cleric|phb|Mind|ExploringEberron|1",
+				"Mind Domain|Cleric|phb|Mind|ExploringEberron|1",
 				"Channel Divinity: Psychic Feedback|Cleric|phb|Mind|ExploringEberron|2",
 				"Gestalt Anchor|Cleric|phb|Mind|ExploringEberron|6",
 				"Potent Spellcasting|Cleric|phb|Mind|ExploringEberron|8",
@@ -19084,27 +18607,28 @@
 			"source": "ExploringEberron",
 			"page": 214,
 			"className": "Artificer",
-			"classSource": "erlw",
+			"classSource": "TCE",
 			"subclassShortName": "Forge Adept",
 			"subclassSource": "ExploringEberron",
 			"level": 3,
+			"header": 1,
 			"entries": [
 				"The daashor artificers of the Dhakaani Empire were the finest weaponsmiths in Khorvaire's history, as discussed in chapter 4 of this book. As a Forge Adept, you carry on these ancient traditions, creating mystical weapons and armor, strengthening allies on the battlefield, and bringing down enemies with weapons imbued with your own soul energy. If you're dar, you learned these techniques from the masters of your clan. Are you content to follow ancient traditions, or do you want to add your own innovations? If you're not Dhakaani, did you learn these techniques from a daashor mentor? Did you steal this knowledge? Or are you replicating these traditions on your own?",
 				{
 					"type": "refSubclassFeature",
-					"subclassFeature": "Tool Proficiencies|Artificer|erlw|Forge Adept|ExploringEberron|3"
+					"subclassFeature": "Tool Proficiencies|Artificer|TCE|Forge Adept|ExploringEberron|3"
 				},
 				{
 					"type": "refSubclassFeature",
-					"subclassFeature": "Forge Adept Spells|Artificer|erlw|Forge Adept|ExploringEberron|3"
+					"subclassFeature": "Forge Adept Spells|Artificer|TCE|Forge Adept|ExploringEberron|3"
 				},
 				{
 					"type": "refSubclassFeature",
-					"subclassFeature": "Battle Ready|Artificer|erlw|Forge Adept|ExploringEberron|3"
+					"subclassFeature": "Battle Ready|Artificer|TCE|Forge Adept|ExploringEberron|3"
 				},
 				{
 					"type": "refSubclassFeature",
-					"subclassFeature": "Ghaal'Shaarat|Artificer|erlw|Forge Adept|ExploringEberron|3"
+					"subclassFeature": "Ghaal'Shaarat|Artificer|TCE|Forge Adept|ExploringEberron|3"
 				}
 			]
 		},
@@ -19114,11 +18638,11 @@
 			"source": "ExploringEberron",
 			"page": 214,
 			"className": "Artificer",
-			"classSource": "erlw",
+			"classSource": "TCE",
 			"subclassShortName": "Forge Adept",
 			"subclassSource": "ExploringEberron",
 			"level": 3,
-			"header": 1,
+			"header": 2,
 			"entries": [
 				"When you adopt this specialization at 3rd level, you gain proficiency with {@item Smith's Tools|phb}. If you already have this proficiency, you gain proficiency with one other type of {@filter artisan's tools|items|type=artisan's tools} of your choice."
 			]
@@ -19129,11 +18653,11 @@
 			"source": "ExploringEberron",
 			"page": 214,
 			"className": "Artificer",
-			"classSource": "erlw",
+			"classSource": "TCE",
 			"subclassShortName": "Forge Adept",
 			"subclassSource": "ExploringEberron",
 			"level": 3,
-			"header": 1,
+			"header": 2,
 			"entries": [
 				"Starting at 3rd level, you always have certain spells prepared after you reach particular levels in this class, as shown in the Forge Adept Spells table. These spells count as artificer spells for you, but they don't count against the number of artificer spells you prepare.",
 				{
@@ -19178,11 +18702,11 @@
 			"source": "ExploringEberron",
 			"page": 214,
 			"className": "Artificer",
-			"classSource": "erlw",
+			"classSource": "TCE",
 			"subclassShortName": "Forge Adept",
 			"subclassSource": "ExploringEberron",
 			"level": 3,
-			"header": 1,
+			"header": 2,
 			"entries": [
 				"Beginning at 3rd level, you're skilled in fighting side-by-side with your companions on the field of battle. You gain proficiency with martial weapons. Additionally, when you attack with a magic weapon, you can use your Intelligence modifier, instead of Strength or Dexterity, for the attack and damage rolls."
 			]
@@ -19193,11 +18717,11 @@
 			"source": "ExploringEberron",
 			"page": 214,
 			"className": "Artificer",
-			"classSource": "erlw",
+			"classSource": "TCE",
 			"subclassShortName": "Forge Adept",
 			"subclassSource": "ExploringEberron",
 			"level": 3,
-			"header": 1,
+			"header": 2,
 			"entries": [
 				"At 3rd level, you learn to imbue a weapon with a fraction of your spirit. The Dhakaani daashors called this weapon the ghaal'shaarat, Goblin for \"mighty blade.\" Imbuing your ghaal'shaarat works like infusing an item, but does not count toward your maximum number of infused items. When you finish a long rest, you can touch a magic or nonmagical simple or martial melee weapon, which becomes your ghaal'shaarat.",
 				"Once imbued, your ghaal'shaarat is a magic weapon that grants a +1 bonus to attack and damage rolls, unless the base weapon you imbued already grants a higher bonus. This bonus increases when you reach certain levels in this class, increasing to +2 at 8th level and +3 at 13th level. If the weapon you imbued has the thrown property, it returns to your hand immediately after it is used to make a ranged attack.",
@@ -19210,11 +18734,11 @@
 			"source": "ExploringEberron",
 			"page": 214,
 			"className": "Artificer",
-			"classSource": "erlw",
+			"classSource": "TCE",
 			"subclassShortName": "Forge Adept",
 			"subclassSource": "ExploringEberron",
 			"level": 5,
-			"header": 1,
+			"header": 2,
 			"entries": [
 				"Starting at 5th level, you can attack twice, rather than once, whenever you take the Attack action on your turn."
 			]
@@ -19225,11 +18749,11 @@
 			"source": "ExploringEberron",
 			"page": 214,
 			"className": "Artificer",
-			"classSource": "erlw",
+			"classSource": "TCE",
 			"subclassShortName": "Forge Adept",
 			"subclassSource": "ExploringEberron",
 			"level": 9,
-			"header": 1,
+			"header": 2,
 			"entries": [
 				"At 9th level, you gain the ability to enhance the weapons of your squad, targeting the damage to the weakness of your enemies. As an action, you can activate an aura that extends from you in a 30-foot radius. The aura moves with you, centered on you, and lasts for 1 minute or until your concentration ends (as if you were casting a spell).",
 				"When you activate this aura, choose one of the following damage types: acid, cold, fire, lightning, or thunder. Each creature of your choice in the aura deals an extra {@damage 1d4} damage of the chosen type when it hits with a weapon attack.",
@@ -19242,11 +18766,11 @@
 			"source": "ExploringEberron",
 			"page": 215,
 			"className": "Artificer",
-			"classSource": "erlw",
+			"classSource": "TCE",
 			"subclassShortName": "Forge Adept",
 			"subclassSource": "ExploringEberron",
 			"level": 15,
-			"header": 1,
+			"header": 2,
 			"entries": [
 				"At 15th level, you learn how to imbue your ghaal'shaarat with additional power, and how to draw on it in time of need. The first time you attack with your ghaal'shaarat on your turn, you can transfer some or all of its bonus to your armor class, instead of using the bonus on any attacks that turn. For every 1 you reduce your attack and damage rolls by, you gain +1 to your AC. As long as you continue holding your ghaal'shaarat, the AC bonus remains in effect until the start of your next turn",
 				"Additionally, when you finish a long rest, you can select one of the following benefits. Until you finish your next long rest, you gain the selected benefit whenever you're holding your ghaal'shaarat.",
@@ -19265,19 +18789,20 @@
 			"source": "ExploringEberron",
 			"page": 215,
 			"className": "Artificer",
-			"classSource": "erlw",
+			"classSource": "TCE",
 			"subclassShortName": "Maverick",
 			"subclassSource": "ExploringEberron",
 			"level": 3,
+			"header": 1,
 			"entries": [
 				"In the world of artifice, the Maverick is a jack of all trades and master of none. A Maverick is always experimenting with new designs, forever abandoning yesterday's work in pursuit of a new obsession. While often dismissed by other artificers as eccentric amateurs, in their refusal to follow established tradition, a Maverick may stumble on remarkable breakthroughs\u2014though their idiosyncratic techniques can rarely be replicated by others",
 				{
 					"type": "refSubclassFeature",
-					"subclassFeature": "Arcane Breakthroughs|Artificer|erlw|Maverick|ExploringEberron|3"
+					"subclassFeature": "Arcane Breakthroughs|Artificer|TCE|Maverick|ExploringEberron|3"
 				},
 				{
 					"type": "refSubclassFeature",
-					"subclassFeature": "Cantrip Specialist|Artificer|erlw|Maverick|ExploringEberron|3"
+					"subclassFeature": "Cantrip Specialist|Artificer|TCE|Maverick|ExploringEberron|3"
 				}
 			]
 		},
@@ -19287,11 +18812,11 @@
 			"source": "ExploringEberron",
 			"page": 215,
 			"className": "Artificer",
-			"classSource": "erlw",
+			"classSource": "TCE",
 			"subclassShortName": "Maverick",
 			"subclassSource": "ExploringEberron",
 			"level": 3,
-			"header": 1,
+			"header": 2,
 			"entries": [
 				"Starting at 3rd level, you gain amazing insights into spell effects beyond the reach of most artificers. Choose one of the following classes: {@filter Bard|spells|level=1;2;3;4;5|class=Bard}, {@filter Cleric|spells|level=1;2;3;4;5|class=Cleric}, {@filter Druid|spells|level=1;2;3;4;5|class=Druid}, {@filter Paladin|spells|level=1;2;3;4;5|class=Paladin}, {@filter Ranger|spells|level=1;2;3;4;5|class=Ranger}, {@filter Sorcerer|spells|level=1;2;3;4;5|class=Sorcerer}, {@filter Warlock|spells|level=1;2;3;4;5|class=Warlock}, or {@filter Wizard|spells|level=1;2;3;4;5|class=Wizard}. This class's spells become part of your Breakthrough spell list. You can choose an additional class and add its spells to your Breakthrough spell list at 5th, 9th, 13th, and 17th levels.",
 				"When you change your list of prepared artificer spells after a long rest, you can prepare an additional 1st-level spell. This spell must be from your Breakthrough spell list. When you reach certain levels in this class, you increase the number of Breakthrough spells that you can prepare. You can prepare an additional 2nd-level spell at 5th level, an additional 3rd-level spell at 9th level, an additional 4th-level spell at 13th level, and an additional 5th-level spell at 17th level. These prepared spells don't count against the number of artificer spells you prepare.",
@@ -19304,11 +18829,11 @@
 			"source": "ExploringEberron",
 			"page": 215,
 			"className": "Artificer",
-			"classSource": "erlw",
+			"classSource": "TCE",
 			"subclassShortName": "Maverick",
 			"subclassSource": "ExploringEberron",
 			"level": 3,
-			"header": 1,
+			"header": 2,
 			"entries": [
 				"You excel at producing minor magical effects\u2014and at abandoning your current projects to pursue new ideas. Starting at 3rd level you gain the following benefits:",
 				{
@@ -19326,11 +18851,11 @@
 			"source": "ExploringEberron",
 			"page": 215,
 			"className": "Artificer",
-			"classSource": "erlw",
+			"classSource": "TCE",
 			"subclassShortName": "Maverick",
 			"subclassSource": "ExploringEberron",
 			"level": 5,
-			"header": 1,
+			"header": 2,
 			"entries": [
 				"Starting at 5th level, you continue to develop your talent for the simplest spells. You gain the following benefits:",
 				{
@@ -19348,11 +18873,11 @@
 			"source": "ExploringEberron",
 			"page": 215,
 			"className": "Artificer",
-			"classSource": "erlw",
+			"classSource": "TCE",
 			"subclassShortName": "Maverick",
 			"subclassSource": "ExploringEberron",
 			"level": 9,
-			"header": 1,
+			"header": 2,
 			"entries": [
 				"Starting at 9th level, when you cast one of the spells you prepared with Arcane Breakthroughs, you can do so as if the spell was cast using a spell slot two levels higher than the spell slot you expend.",
 				"You can use this feature a number of times equal to your Intelligence modifier (minimum of 1). You regain all expended uses after you finish a long rest."
@@ -19364,11 +18889,11 @@
 			"source": "ExploringEberron",
 			"page": 215,
 			"className": "Artificer",
-			"classSource": "erlw",
+			"classSource": "TCE",
 			"subclassShortName": "Maverick",
 			"subclassSource": "ExploringEberron",
 			"level": 9,
-			"header": 1,
+			"header": 2,
 			"entries": [
 				"Starting at 9th level, you can ready half-formed projects for easy completion when needed. As an action, you can replace any prepared artificer spell with any other spell from the artificer spell list, which then counts as a prepared spell for you.",
 				"Once you use this feature, you can't use it again until you finish a short or a long rest."
@@ -19380,11 +18905,11 @@
 			"source": "ExploringEberron",
 			"page": 215,
 			"className": "Artificer",
-			"classSource": "erlw",
+			"classSource": "TCE",
 			"subclassShortName": "Maverick",
 			"subclassSource": "ExploringEberron",
 			"level": 15,
-			"header": 1,
+			"header": 2,
 			"entries": [
 				"At 15th level, you gain one additional spell slot of each spell level you can prepare. These spell slots can only be used to cast the bonus spells granted by your Arcane Breakthroughs.",
 				"As you gain levels in this class and are able to prepare 5th-level artificer spells, you gain an additional spell slot of that level."
@@ -19399,6 +18924,7 @@
 			"subclassShortName": "Dirge Singer",
 			"subclassSource": "ExploringEberron",
 			"level": 3,
+			"header": 1,
 			"entries": [
 				"Bards of the College of the Dirge Singer are trained to inspire their people and direct soldiers on the battlefield. Students of both history and war, dirge singers use tales of past glory and their knowledge of great victories to inspire their allies and provide keen strategic insight, directing allies to strike when enemies are weak.",
 				"This ancient tradition was developed in the Empire of Dhakaan, and is largely unknown beyond the goblinoids of the Kech Dhakaan. The duur'kala\u2014Goblin for dirge singer\u2014are the historians, diplomats, and spiritual leaders of the empire. Duur'kala are discussed in more detail in chapter 4 of this book. If you're not one of the dar, consider how you came to learn this tradition. Did you train with a ghaal'dar mentor? Or did you find your own path to these techniques?",
@@ -19421,6 +18947,7 @@
 			"subclassShortName": "Dirge Singer",
 			"subclassSource": "ExploringEberron",
 			"level": 3,
+			"header": 2,
 			"entries": [
 				"When you join the College of Dirge Singers at 3rd level, you learn to strengthen the hearts of your troops and stir them to greatness. You learn the {@spell guidance} cantrip, which is considered a bard spell for you, but doesn't count against your number of cantrips known.",
 				"Additionally, as a bonus action, you can expend one use of your Bardic Inspiration to inspire multiple allies. When you do so, choose two creatures within 60 feet of you that can hear you. Each creature gains one Bardic Inspiration die.",
@@ -19436,6 +18963,7 @@
 			"subclassShortName": "Dirge Singer",
 			"subclassSource": "ExploringEberron",
 			"level": 3,
+			"header": 2,
 			"entries": [
 				"Also at 3rd level, you gain proficiency in either History or Performance. If you are already proficient in both of these skills, you gain proficiency in one of the following skills of your choice: {@skill Arcana}, {@skill Intimidation}, or {@skill Persuasion}.",
 				"In addition, choose either {@skill History} or {@skill Performance}. Your proficiency bonus is doubled for any ability check you make that uses that skill."
@@ -19450,6 +18978,7 @@
 			"subclassShortName": "Dirge Singer",
 			"subclassSource": "ExploringEberron",
 			"level": 6,
+			"header": 2,
 			"entries": [
 				"Starting at 6th level, you excel at inspiring and directing soldiers in battle. When a creature that has a Bardic Inspiration die from you takes the Attack action on its turn, you can use your reaction to allow it an additional weapon attack. The creature rolls the Bardic Inspiration die, adding the number rolled to its weapon damage roll."
 			]
@@ -19463,13 +18992,14 @@
 			"subclassShortName": "Dirge Singer",
 			"subclassSource": "ExploringEberron",
 			"level": 14,
+			"header": 2,
 			"entries": [
 				"Starting at 14th level, you unflaggingly maintain the spirits and discipline of your unit. During your turn, you can use Countercharm as a bonus action. When you start a Countercharm performance, if any creature that gains its benefit is currently charmed or frightened, it can immediately make another saving throw against the effect that imposed the condition.",
 				"In addition, when a creature that gains the benefit of your Countercharm performance makes an ability check or saving throw, it can roll a {@dice d4} and add the number rolled to the ability check or saving throw."
 			]
 		},
 		{
-			"name": "The Mind Domain",
+			"name": "Mind Domain",
 			"source": "ExploringEberron",
 			"page": 217,
 			"className": "Cleric",
@@ -19477,6 +19007,7 @@
 			"subclassShortName": "Mind",
 			"subclassSource": "ExploringEberron",
 			"level": 1,
+			"header": 1,
 			"entries": [
 				"This path blends divine devotion and psychic power. The forces tied to the Mind domain teach followers that the mind is the greatest tool and the mightiest weapon in creation. A cleric of the Mind domain learns to harness their own mental power, then uses this gift to protect the faithful and smite enemies.",
 				"In Eberron, the Mind domain is most associated with the kalashtar Path of Light and the Riedran Path of Inspiration. However, followers of the cults of the Dragon Below might also follow this path. While visions of Xoriat can certainly drive a priest into madness, they might also reveal deeper secrets and mental powers.",
@@ -19534,7 +19065,7 @@
 			"subclassShortName": "Mind",
 			"subclassSource": "ExploringEberron",
 			"level": 1,
-			"header": 1,
+			"header": 2,
 			"entries": [
 				"Starting at 1st level, you can summon power from a well of mental energy at your core. When you make an ability check, you can choose to reroll it after you see the result, but before you know if it succeeds or fails. You get a bonus to this reroll equal to half of your cleric level (minimum of 1).",
 				"You can use this feature twice. You regain expended uses when you finish a short or long rest."
@@ -19550,7 +19081,7 @@
 			"subclassShortName": "Mind",
 			"subclassSource": "ExploringEberron",
 			"level": 1,
-			"header": 1,
+			"header": 2,
 			"entries": [
 				"Also at 1st level, you learn to buffet your foes with mental power. When you cast a cleric spell or cantrip that inflicts radiant damage, you can choose to have it inflict psychic damage instead."
 			]
@@ -19565,7 +19096,7 @@
 			"subclassShortName": "Mind",
 			"subclassSource": "ExploringEberron",
 			"level": 2,
-			"header": 1,
+			"header": 2,
 			"entries": [
 				"Beginning at 2nd level, you can use your Channel Divinity to disrupt a foe's mind. When a creature within 30 feet of you has to make a Wisdom saving throw, you can use your reaction to impose disadvantage on it using your Channel Divinity. You must use this feature before you know the outcome of the roll. If the spell or effect that caused the Wisdom saving throw is not created by a spell you cast, you can also choose to deal psychic damage to the target, equal to half your cleric level, immediately before the target makes its saving throw."
 			]
@@ -19580,7 +19111,7 @@
 			"subclassShortName": "Mind",
 			"subclassSource": "ExploringEberron",
 			"level": 6,
-			"header": 1,
+			"header": 2,
 			"entries": [
 				"Beginning at 6th level, your mental power increases, settling the minds of those around you with your mere presence. Whenever you or a friendly creature within 10 feet of you must make an Intelligence, Wisdom, or Charisma saving throw, the creature gains a +2 bonus to the saving throw. You must be conscious to grant this bonus."
 			]
@@ -19595,7 +19126,7 @@
 			"subclassShortName": "Mind",
 			"subclassSource": "ExploringEberron",
 			"level": 8,
-			"header": 1,
+			"header": 2,
 			"entries": [
 				"Starting at 8th level, you add your Wisdom modifier to the damage you deal with any cleric cantrip."
 			]
@@ -19610,7 +19141,7 @@
 			"subclassShortName": "Mind",
 			"subclassSource": "ExploringEberron",
 			"level": 17,
-			"header": 1,
+			"header": 2,
 			"entries": [
 				"Starting at 17th level, when you see an ally within 30 feet of you fail a saving throw, you can replace the roll with a 20, potentially changing the outcome. Once you use this feature, you can't use it again until you finish a short or long rest."
 			]
@@ -19624,6 +19155,7 @@
 			"subclassShortName": "Forged",
 			"subclassSource": "ExploringEberron",
 			"level": 2,
+			"header": 1,
 			"entries": [
 				"What is truly natural? The warforged are living creatures, despite being constructed from wood and steel. Druids who embrace the Circle of the Forged explore the potential of the warforged form, blending animal shapes with warforged durability. This is a young path, pioneered by a handful of warforged who sought a greater understanding of their role in the world. Over the last few decades, a number of warforged have embraced the Circle of the Forged; however, it isn't limited to warforged; a Cannith heir or an aspiring artificer might pursue primal power as a way to transcend the limited flesh they were born with.",
 				"Only a handful of druids follow this Circle. Did you learn these techniques from a mentor? Are you driven by instinct, still learning what you're capable of? Or, if you're a warforged, were you designed with the potential to assume multiple forms... and if so, who created you, and why?",
@@ -19646,7 +19178,7 @@
 			"subclassShortName": "Forged",
 			"subclassSource": "ExploringEberron",
 			"level": 2,
-			"header": 1,
+			"header": 2,
 			"entries": [
 				"The rites of your circle grant you the ability to transform into more dangerous animal forms. Starting at 2nd level, you can use your Wild Shape to transform into a {@filter beast with a challenge rating as high as 1|bestiary|challenge rating=[&0;&1]|type=beast|speed type=!fly;!swim|miscellaneous=!swarm} (you ignore the Max. CR column of the Beast Shapes table, but must abide by the other limitations there).",
 				"Starting at 6th level, you can transform into a beast with a challenge rating as high as your druid level divided by 3, rounded down.",
@@ -19717,7 +19249,7 @@
 			"subclassShortName": "Forged",
 			"subclassSource": "ExploringEberron",
 			"level": 2,
-			"header": 1,
+			"header": 2,
 			"entries": [
 				"Starting at 2nd level, while you are transformed by Wild Shape, you gain the following benefits:",
 				{
@@ -19742,7 +19274,7 @@
 			"subclassShortName": "Forged",
 			"subclassSource": "ExploringEberron",
 			"level": 6,
-			"header": 1,
+			"header": 2,
 			"entries": [
 				"Starting at 6th level, you gain the ability to imbue your attacks with elemental damage\u2014charging your claws with electricity or unleashing flames from your fangs. When you use Wild Shape, choose one of the following damage types: acid, cold, fire, or lightning. While in your beast form, the first time you hit a creature with a melee attack on your turn, you can expend one spell slot to deal extra damage of that type to the target, in addition to the normal damage of the attack. The extra damage is {@damage 1d6} per level of the spell slot expended, to a maximum of {@damage 5d6}.",
 				"When you use this ability on a creature, your attack has an additional effect, determined by which damage type you selected when you used Wild Shape. If a creature is affected by this ability again in subsequent rounds, the effects do not stack, and the new duration replaces the old.",
@@ -19785,7 +19317,7 @@
 			"subclassShortName": "Forged",
 			"subclassSource": "ExploringEberron",
 			"level": 10,
-			"header": 1,
+			"header": 2,
 			"entries": [
 				"Starting at 10th level, while you are transformed by Wild Shape, you gain resistance to bludgeoning, piercing, and slashing damage from nonmagical attacks.",
 				"In addition, you gain the ability to use Wild Shape as a reaction when you take damage, and the damage from that attack is applied to the hit points of your beast form."
@@ -19800,7 +19332,7 @@
 			"subclassShortName": "Forged",
 			"subclassSource": "ExploringEberron",
 			"level": 14,
-			"header": 1,
+			"header": 2,
 			"entries": [
 				"Starting at 14th level, while you are transformed by Wild Shape, you can't be {@condition charmed}, {@condition frightened}, {@condition paralyzed}, {@condition petrified}, or {@condition poisoned}, and you are immune to poison damage."
 			]
@@ -19814,6 +19346,7 @@
 			"subclassShortName": "Living Weapon",
 			"subclassSource": "ExploringEberron",
 			"level": 3,
+			"header": 1,
 			"entries": [
 				"A monk following the Way of the Living Weapon pursues physical perfection, honing their body as a smith sharpens a sword. Its traditions are drawn from cultures of shapeshifters and creatures who fight with tooth and claw. These are a few of the martial techniques that have evolved into the Way of the Living Weapon.",
 				{
@@ -19850,6 +19383,7 @@
 			"subclassShortName": "Living Weapon",
 			"subclassSource": "ExploringEberron",
 			"level": 3,
+			"header": 2,
 			"entries": [
 				"At 3rd level, when you choose this tradition, your Martial Arts damage die increases for unarmed strikes. You can roll a {@damage d6} in place of the normal damage for your unarmed strike. This die changes to a {@damage d8} at 5th level; a {@damage d10} at 11th level; and a {@damage d12} at 17th level. This increased damage can only be applied to an unarmed strike, and not to a monk weapon."
 			]
@@ -19863,6 +19397,7 @@
 			"subclassShortName": "Living Weapon",
 			"subclassSource": "ExploringEberron",
 			"level": 3,
+			"header": 2,
 			"entries": [
 				"Starting at 3rd level, when you adopt this tradition, choose a discipline and gain its feature.",
 				{
@@ -19905,6 +19440,7 @@
 			"subclassShortName": "Living Weapon",
 			"subclassSource": "ExploringEberron",
 			"level": 3,
+			"header": 2,
 			"entries": [
 				"You have the power to alter your natural weapons, growing claws or reinforcing your fists. Starting at 3rd level, when you use Martial Arts to make an unarmed strike, you can choose whether you inflict slashing, bludgeoning, or piercing damage with the attack."
 			]
@@ -19918,6 +19454,7 @@
 			"subclassShortName": "Living Weapon",
 			"subclassSource": "ExploringEberron",
 			"level": 6,
+			"header": 2,
 			"entries": [
 				"Starting at 6th level, choose one of the following damage types when you finish a long rest: bludgeoning, piercing, slashing, cold, lightning, necrotic, psychic, or thunder. On your turn, the first creature you hit with an unarmed strike takes an additional {@damage 1d6} points of damage of that type. If you select bludgeoning, piercing, or slashing damage, it benefits from your Ki-Empowered Strikes class feature and counts as magical damage.",
 				"Nightmare Shroud monks typically inflict psychic damage with this ability, Forged Heart monks enhance their bludgeoning damage, and Weretouched grow sharper claws. However, you can choose any damage type, regardless of your discipline(s)."
@@ -19932,6 +19469,7 @@
 			"subclassShortName": "Living Weapon",
 			"subclassSource": "ExploringEberron",
 			"level": 11,
+			"header": 2,
 			"entries": [
 				"Starting at 11th level, when you make a Strength ({@skill Athletics}) or Dexterity ({@skill Acrobatics}) check, you can spend 1 ki point to roll an additional d20. You can choose to use this ability after you roll the check, but before the outcome is determined. You choose which of the d20s is used for the ability check, omitting the highest if this check was rolled with disadvantage.",
 				"In addition, the extra damage dealt by the Manifest Blow class feature increases to {@damage 2d6}."
@@ -19946,6 +19484,7 @@
 			"subclassShortName": "Living Weapon",
 			"subclassSource": "ExploringEberron",
 			"level": 17,
+			"header": 2,
 			"entries": [
 				"At 17th level, you transform your body to become a weapon of war. You gain a feature based on a discipline of your choice. You can choose the same discipline you selected at 3rd level or a different one.",
 				{
@@ -24131,7 +23670,7 @@
 			"page": 205,
 			"type": "secret",
 			"typicalSpeakers": [
-				"{@race changeling|ERLW|changelings}/{@creature changeling|ERWL|changelings}"
+				"{@race changeling|ERLW|changelings}/{@creature changeling|ERLW|changelings}"
 			],
 			"entries": [
 				"As a traveler, you have learned a secret language that allows you to silently convey messages to fellow changelings. This is an exotic language that can only be 'spoken' by changelings, though members of other species can learn to understand it. Skin cant uses shifting patterns of scars, tattoos, and pigment. This allows you to convey a short message\u2014a concept that can be expressed in six words or less\u2014to anyone who knows the language and who can see you. Typically the message is something you maintain as part of your appearance; for example, in crafting your image, you might add a pattern of scars that tells other changeling travelers, 'I need help' or 'Everything I say is a lie.'",
